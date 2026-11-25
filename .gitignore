@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+**/build/
+local.properties
+app/google-services.json
+*.jks
+*.keystore
+.env
+node_modules/
+firebase-debug.log
+firestore-debug.log
+emulator*.log
+.kotlin/
+tools/__pycache__/
+data/raw/*.csv
+tools/geocode_cache.json

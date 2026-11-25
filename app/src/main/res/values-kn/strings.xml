@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ಕ್ರಾಪ್ ಕಂಪಾಸ್</string><string name="tagline">ಸರಿಯಾದ ಮಾರುಕಟ್ಟೆ ಹುಡುಕಿ. ಲಾಭ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="home">ಮುಖಪುಟ</string><string name="prices">ಬೆಲೆಗಳು</string><string name="compare">ಹೋಲಿಕೆ</string><string name="watchlist">ವೀಕ್ಷಣಾ ಪಟ್ಟಿ</string><string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="district">ಜಿಲ್ಲೆ</string><string name="mandi">ಮಾರುಕಟ್ಟೆ</string><string name="choose_region">ನಿಮ್ಮ ಪ್ರದೇಶ ಆಯ್ಕೆಮಾಡಿ</string><string name="save_region">ಪ್ರದೇಶ ಉಳಿಸಿ</string>
+    <string name="search_commodities">ಬೆಳೆಗಳನ್ನು ಹುಡುಕಿ</string><string name="your_mandi">ನಿಮ್ಮ ಮಾರುಕಟ್ಟೆ</string><string name="today_mandi">ನಿಮ್ಮ ಮಾರುಕಟ್ಟೆಯ ಇತ್ತೀಚಿನ ಬೆಲೆಗಳು</string><string name="commodity">ಬೆಳೆ</string>
+    <string name="save">ಉಳಿಸಿ</string><string name="cancel">ರದ್ದುಮಾಡಿ</string><string name="delete">ಅಳಿಸಿ</string><string name="edit">ತಿದ್ದು</string><string name="map">ನಕ್ಷೆ</string><string name="list">ಪಟ್ಟಿ</string>
+    <string name="report_price">ಬೆಲೆ ವರದಿ ಮಾಡಿ</string><string name="my_reports">ನನ್ನ ವರದಿಗಳು</string><string name="about_data">ಮಾಹಿತಿಯ ಬಗ್ಗೆ</string><string name="insights">ಮಾರುಕಟ್ಟೆ ಒಳನೋಟಗಳು</string><string name="best_mandi">ಉತ್ತಮ ಮಾರುಕಟ್ಟೆ</string>
+    <string name="test_data">ಪರೀಕ್ಷಾ ಮಾಹಿತಿ — ನಿಜವಾದ ಬೆಲೆಗಳಲ್ಲ</string><string name="stale">ಹಳೆಯ ಮಾಹಿತಿ</string><string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+</resources>

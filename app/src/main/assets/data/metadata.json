@@ -1,0 +1,11 @@
+{
+  "dataVersion": "19e84eb3bbbb067a499c",
+  "dataSource": "fixture",
+  "source": "SYNTHETIC TEST FIXTURE",
+  "firstDate": "2026-09-08",
+  "lastDate": "2026-11-06",
+  "recordCount": 1650,
+  "historyDays": 365,
+  "generatedAt": "2026-11-06",
+  "unit": "INR_QUINTAL"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="home">Home</string><string name="prices">Prices</string><string name="compare">Compare</string><string name="watchlist">Watchlist</string><string name="profile">Profile</string>
+    <string name="district">District</string><string name="mandi">Mandi</string><string name="choose_region">Choose your region</string><string name="save_region">Save region</string>
+    <string name="search_commodities">Search commodities</string><string name="your_mandi">Your mandi</string><string name="today_mandi">Today at your mandi</string><string name="commodity">Commodity</string>
+    <string name="save">Save</string><string name="cancel">Cancel</string><string name="delete">Delete</string><string name="edit">Edit</string><string name="map">Map</string><string name="list">List</string>
+    <string name="report_price">Report a price</string><string name="my_reports">My reports</string><string name="about_data">About the data</string><string name="insights">Market insights</string><string name="best_mandi">Best mandi</string>
+    <string name="test_data">TEST DATA — not real prices</string><string name="stale">Stale</string><string name="retry">Retry</string>
+</resources>

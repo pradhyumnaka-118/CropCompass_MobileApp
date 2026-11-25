@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tomato",
+    "nameEn": "Tomato",
+    "nameKn": "ಟೊಮೇಟೊ",
+    "group": null
+  },
+  {
+    "id": "onion",
+    "nameEn": "Onion",
+    "nameKn": "ಈರುಳ್ಳಿ",
+    "group": null
+  },
+  {
+    "id": "potato",
+    "nameEn": "Potato",
+    "nameKn": "ಆಲೂಗಡ್ಡೆ",
+    "group": null
+  },
+  {
+    "id": "maize",
+    "nameEn": "Maize",
+    "nameKn": "ಮೆಕ್ಕೆಜೋಳ",
+    "group": null
+  },
+  {
+    "id": "paddy",
+    "nameEn": "Paddy",
+    "nameKn": "ಭತ್ತ",
+    "group": null
+  }
+]

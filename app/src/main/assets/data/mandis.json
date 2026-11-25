@@ -1,0 +1,62 @@
+[
+  {
+    "id": "test-1",
+    "nameEn": "TEST Market 1 (synthetic)",
+    "nameKn": null,
+    "districtId": "kolar",
+    "lat": 13.12,
+    "lng": 78.05,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  },
+  {
+    "id": "test-2",
+    "nameEn": "TEST Market 2 (synthetic)",
+    "nameKn": null,
+    "districtId": "kolar",
+    "lat": 13.3,
+    "lng": 78.15,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  },
+  {
+    "id": "test-3",
+    "nameEn": "TEST Market 3 (synthetic)",
+    "nameKn": null,
+    "districtId": "mandya",
+    "lat": 12.6,
+    "lng": 76.9,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  },
+  {
+    "id": "test-4",
+    "nameEn": "TEST Market 4 (synthetic)",
+    "nameKn": null,
+    "districtId": "mandya",
+    "lat": 12.8,
+    "lng": 77.05,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  },
+  {
+    "id": "test-5",
+    "nameEn": "TEST Market 5 (synthetic)",
+    "nameKn": null,
+    "districtId": "mysuru",
+    "lat": 12.3,
+    "lng": 76.65,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  },
+  {
+    "id": "test-6",
+    "nameEn": "TEST Market 6 (synthetic)",
+    "nameKn": null,
+    "districtId": "mysuru",
+    "lat": 12.4,
+    "lng": 76.8,
+    "geoConfidence": "DISTRICT",
+    "lastReportDate": "2026-11-06"
+  }
+]
